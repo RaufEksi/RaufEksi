@@ -5,7 +5,7 @@ I am a Mathematical Engineering student at **Istanbul Technical University (ITU)
 
 ### 🛠️ Tech Stack & Skills
 
-* **Languages:** Python, SQL, LaTeX
+* **Languages:** Python, SQL
 * **Data Science & Analysis:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 * **Quantitative Finance:** `ffn`, `QuantStats`, Technical Analysis, Backtesting
 * **Mathematics:** Numerical Analysis, Stochastic Processes, Optimization Methods (BFGS, Least Squares)
