@@ -28,10 +28,6 @@ I am a Mathematical Engineering student at **Istanbul Technical University (ITU)
 * Applied the Least Squares Method to fit data and simulate auditory responses.
 * *Status: Completed*
 
-#### 📊 Social Media Sentiment Analyzer (Upcoming)
-* A data analysis tool designed for marketing agencies to interpret customer sentiment.
-* Uses NLP to extract keywords and visualize brand perception from social media comments.
-* *Status: In Progress*
 
 ### 📫 Connect with Me
 
